@@ -6,8 +6,8 @@ It is a simple Muulti Step User form
 <div display="flex" flex-direction="row">
 <img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/one.PNG" height="220px" width="220px"/>
 <img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/two.PNG" height="220px" width="220px"/>
-<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/three.PNG" height="220px" width="220px"/>
-<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/four.PNG" height="220px" width="220px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/three.PNG" height="220px" width="400px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/four.PNG" height="220px" width="400px"/>
 </div>
 
 ## Available Scripts
