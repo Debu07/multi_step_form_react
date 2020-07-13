@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It is a simple Muulti Step User form
 
 <div>
-<img src="./src/components/images/one.PNG" height="50px" width="50px"/>
-<img src="./src/components/images/two.PNG" height="50px" width="50px"/>
-<img src="./src/components/images/three.PNG" height="50px" width="50px"/>
-<img src="./src/components/images/four.PNG" height="50px" width="50px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/one.PNG" height="150px" width="150px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/two.PNG" height="150px" width="150px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/three.PNG" height="150px" width="150px"/>
+<img src="https://raw.githubusercontent.com/Debu07/multi_step_form_react/master/src/images/four.PNG" height="150px" width="150px"/>
 </div>
 
 ## Available Scripts
