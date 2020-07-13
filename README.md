@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+It is a simple Muulti Step User form
+
+<div>
+<img src="./src/components/images/one.PNG" height="50px" width="50px"/>
+<img src="./src/components/images/two.PNG" height="50px" width="50px"/>
+<img src="./src/components/images/three.PNG" height="50px" width="50px"/>
+<img src="./src/components/images/four.PNG" height="50px" width="50px"/>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
